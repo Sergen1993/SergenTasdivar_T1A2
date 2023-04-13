@@ -51,7 +51,6 @@ main article img {
     width: 70%;
     border-radius: 50%;
     border: 2px solid black;
-
 }
 
 main article ref {
@@ -87,17 +86,17 @@ main article ref {
 
 /* Footer component */
 
+.return {    
+    padding-top: 3%;
 
+}
 .copyright{
     float:left;
     padding: 8rem 0rem 0rem 0rem;
     font-size:x-small;
 }
 
-.return {    
-    padding-top: 3%;
 
-}
 
 @media only screen and (min-width:900px) {
 
@@ -105,7 +104,24 @@ main article ref {
         width: 40%;
         display:inline-block;
         justify-content: center;
+        min-height: 45rem;
         
     }
+
+    .blogs{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        max-block-size: 150%;
+    
+    }
+
+    .ref {
+        display: flex;
+        justify-content:end ;
+        padding-top: 8%;
+    }
+
 
 }
