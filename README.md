@@ -1,7 +1,7 @@
 # **Sergen Tasdivar**  
 **T1A2**
-**https://youtu.be/WvyH95nZEN4**
-**https://sergen-tasdivar-portfolio.netlify.app/**
+**https://youtu.be/WvyH95nZEN4**  
+**https://sergen-tasdivar-portfolio.netlify.app/**  
 **https://github.com/Sergen1993/SergenTasdivar_T1A2.git**  
 
 
